@@ -244,7 +244,7 @@ Navbar
   overflow: hidden;
 }
 .show-links {
-  height: 280px;
+  height: 370px;
 }
 @media screen and (min-width: 992px) {
   .navbar {
